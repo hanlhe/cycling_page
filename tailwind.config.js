@@ -4,7 +4,7 @@ export default {
   theme: {
     fontFamily: {
       sans: [
-        'IBM Plex Sans',
+        'IBM Plex Serif',
         '-apple-system',
         'BlinkMacSystemFont',
         'Segoe UI',
