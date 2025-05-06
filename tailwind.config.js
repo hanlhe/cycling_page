@@ -4,6 +4,8 @@ export default {
   theme: {
     fontFamily: {
       sans: [
+        'Ysabeau Office',
+        'LXGW Bright Code Light',
         '-apple-system',
         'BlinkMacSystemFont',
         'Segoe UI',

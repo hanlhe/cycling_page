@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Office:ital,wght@0,1..1000;1,1..1000&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/@joshuasu/lxgwbright-code-web@2.711.0/style.min.css');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
